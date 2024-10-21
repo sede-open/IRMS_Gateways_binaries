@@ -1,0 +1,2 @@
+src/gz bsp file:///lib/firmware/bsp/bsp
+src/gz gpio-fpga file:///lib/firmware/bsp/gpio-fpga
