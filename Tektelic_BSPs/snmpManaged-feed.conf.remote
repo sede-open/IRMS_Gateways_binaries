@@ -1,0 +1,8 @@
+src/gz bsp       https://kona-gw-update.s3.us-west-2.amazonaws.com/kona/latest/bsp
+src/gz utils     https://kona-gw-update.s3.us-west-2.amazonaws.com/kona/latest/utils
+src/gz net       https://kona-gw-update.s3.us-west-2.amazonaws.com/kona/latest/networking-extra
+src/gz py        https://kona-gw-update.s3.us-west-2.amazonaws.com/kona/latest/python-extra
+src/gz web       https://kona-gw-update.s3.us-west-2.amazonaws.com/kona/latest/webserver
+src/gz admin     https://kona-gw-update.s3.us-west-2.amazonaws.com/kona/latest/admin-unsafe
+src/gz gpio-fpga https://kona-gw-update.s3.us-west-2.amazonaws.com/kona/latest/gpio-fpga
+src/gz fe-fpga   https://kona-gw-update.s3.us-west-2.amazonaws.com/kona/latest/fe-fpga
